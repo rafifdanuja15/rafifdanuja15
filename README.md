@@ -19,9 +19,9 @@
 
 ## About Me
 
-I am a Data Scientist and AI Engineer from IPB University, majoring in Statistics and Data Science. My work centers on **Computer Vision** and **Natural Language Processing** — spanning object detection pipelines, image classification, Indonesian language NLP, and sentiment analysis. I combine rigorous statistical foundations (Bayesian inference, spatial econometrics, time series) with applied deep learning using TensorFlow, PyTorch, and HuggingFace.
+I am a Data Scientist and AI Engineer from IPB University, majoring in Statistics and Data Science. I enjoy turning data into practical solutions by combining strong statistical foundations with modern machine learning techniques. My experience spans Computer Vision and Natural Language Processing (NLP), including object detection, image classification, Indonesian NLP, and sentiment analysis. I work with tools such as TensorFlow, PyTorch, and Hugging Face, while drawing on my background in Bayesian inference, spatial econometrics, and time series analysis to build models that are both robust and interpretable.
 
-Current focus: automated survey tooling for large-scale market research and ECG arrhythmia classification on the MIT-BIH dataset under AAMI interpatient standards.
+Current focus: developing and applying machine learning and NLP models to solve real-world problems, with a particular interest in predictive modeling, text analytics, and end-to-end AI systems that can be deployed in practical settings.
 
 Bogor, West Java, Indonesia &nbsp;|&nbsp; IPB University
 
