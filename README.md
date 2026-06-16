@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:1a3a5c,100:1f6feb&height=140&section=header&text=Muhammad%20Rafif%20Danuja&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=78&descSize=16&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a1628,70:1a3a5c,100:1f6feb&amp;height=140&amp;section=header&amp;text=Muhammad%20Rafif%20Danuja&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;desc=Data%20Scientist%20%26%20AI%20Engineer&amp;descAlignY=78&amp;descSize=16&amp;descColor=8b949e" width="100%"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rafif-danuja)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafifdanuja15)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafifdanuja15@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=rafifdanuja15&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=rafifdanuja15&amp;style=for-the-badge&amp;color=1f6feb&amp;label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -110,14 +110,14 @@ Bogor, West Java, Indonesia &nbsp;|&nbsp; IPB University
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafifdanuja15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafifdanuja15&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafifdanuja15&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafifdanuja15&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rafifdanuja15&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1f6feb&ring=58a6ff&fire=ff7b54"/>
+<img src="https://streak-stats.demolab.com?user=rafifdanuja15&amp;theme=github-dark-blue&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;stroke=1f6feb&amp;ring=58a6ff&amp;fire=ff7b54"/>
 
 </div>
 
@@ -125,15 +125,16 @@ Bogor, West Java, Indonesia &nbsp;|&nbsp; IPB University
 
 ## Achievements & Certifications
 
-- **Semifinalist** — GeneraZ Berbakti 2026, Waste Management System (SIMPONIK)
-- **Environmental Volunteer** — Tim Sabilulungan Lestari, River cleanup & 3R education
-- **Research** — Spatial Panel Analysis of Poverty Factors across 118 kabupaten/kota in Java
-- **ECG Classification** — MIT-BIH Arrhythmia DB with AAMI interpatient standard (ICA + LightGBM)
+* **1st Place** — Infographic Competition, ANAVA UGM 2025
+* **2nd Place** — Statistics Essay Competition, Satria Data 2025 (organized by the Indonesian Ministry of Education, Culture, Research, and Technology)
+* **2nd Place** — Dokter Data Analytics Olympiad 2026, Diponegoro University
+* **2nd Place & Best Analysis Award** — Statistics Analysis Competition, GAMMAFEST IPB 2026
+* **AI Engineer Cohort** — Coding Camp 2026 by DBS Foundation × Dicoding
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:1a3a5c,100:0d1117&height=100&section=footer&text=Let%27s+build+something+intelligent.&fontSize=16&fontColor=8b949e&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1f6feb,50:1a3a5c,100:0d1117&amp;height=100&amp;section=footer&amp;text=Let%27s+build+something+intelligent.&amp;fontSize=16&amp;fontColor=8b949e&amp;fontAlignY=65" width="100%"/>
 
 </div>
